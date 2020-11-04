@@ -13,5 +13,5 @@
   <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
-## 📈 **Github Stats:**
+### 📈 **Github Stats:**
 <img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=AkshatGoyal1018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
