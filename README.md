@@ -12,3 +12,4 @@
 <a href="https://www.instagram.com/akg._.16/">
   <img align="left" alt="Pranit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+github-readme-stats.vercel.app/api?username=AkshatGoyal1018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=da…	
