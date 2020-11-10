@@ -2,7 +2,7 @@
 
 ### I'm a DevOps Enthusiast
 - 🌱 I’m currently learning Frontend with javascript.
-- 👯 I’m looking to collaborate on Web-dev projects.
+- 👯 I’m looking to collaborate on Web-dev projects <i style='font-size:24px' class='fas'>&#xf240;</i>.
 - ⚡ Fun fact: Currently everyday is a not a new day because nothing new happen.
 
 ### Connect with me:
