@@ -1,4 +1,5 @@
 ### Hi there, I'm Akshat Goyal 👋
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
 
 ### I'm a DevOps Enthusiast
 - 🌱 I’m currently learning Frontend with javascript.
