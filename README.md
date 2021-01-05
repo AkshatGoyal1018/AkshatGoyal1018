@@ -10,7 +10,7 @@
   <img align="left" alt="Akshat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/akg._.16/">
-  <img align="left" alt="Akshat's Instagram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandpalettes.com%2Finstagram-color-codes%2F&psig=AOvVaw3mbJriFg3v9JBJgFXKwJhN&ust=1609945322249000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCpsOqHhe4CFQAAAAAdAAAAABAD" />
+  <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=AkshatGoyal1018">
 </a>
