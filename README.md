@@ -3,7 +3,7 @@
 ### I'm a DevOps Enthusiast
 - 🌱 I’m currently learning Flutter AppDev.
 - 👯 I’m looking to collaborate on Web-dev projects.
-- ⚡ Fun fact: Myth: DevOps requires a team.
+- ⚡ Fun fact: DevOps requires a team is a  myth.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/akshat-goyal-3a082b190/">
