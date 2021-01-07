@@ -17,4 +17,4 @@
 <br><br>
 
 ## 📈 **Github Stats:**
-<img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=AkshatGoyal1018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AkshatGoyal1018&layout=compact&theme=blue-green">
+<img align="center" width=60% src="https://github-readme-stats.vercel.app/api?username=AkshatGoyal1018&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
