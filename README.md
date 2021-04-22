@@ -24,6 +24,7 @@
 ## 🛠️ **Languages & Tools:**
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=00ffff)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=00ffff)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=00ffff)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=htmlt5&logoColor=white&color=00ffff)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c++&logoColor=white&color=00ffff)
