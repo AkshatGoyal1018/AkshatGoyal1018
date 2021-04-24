@@ -2,7 +2,7 @@
 
 ### I'm a DevOps Enthusiast
 - 🌱 I’m currently learning Flutter AppDev.
-- 👯 I’m looking to collaborate on Web-dev projects.
+- 👯 I’m looking to collaborate on Flutter projects.
 - ⚡ Fun fact: DevOps requires a team is a  myth.
 
 ### Connect with me:
