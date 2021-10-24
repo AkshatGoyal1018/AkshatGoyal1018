@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/akshat-goyal-3a082b190/">
   <img align="left" alt="Akshat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/akg._.16/">
+<a href="https://www.instagram.com/akshat_.16/">
   <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="mailto: akshatgoyal1018@gmail.com">
