@@ -10,10 +10,10 @@
   <img align="left" alt="Akshat's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/akg._.16/">
-  <img align="left" alt="Akshat's Instagram" width="22px" src=https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="mailto: akshatgoyal1018@gmail.com">
-  <img align="left" alt="Akshat's mail Id" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+  <img align="left" alt="Akshat's mail Id" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 <br><br>
 
